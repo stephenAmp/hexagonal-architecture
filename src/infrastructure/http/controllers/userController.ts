@@ -1,6 +1,6 @@
-import { Request, Response }  from "express";
-import { UserService } from "../../application/services/UserService";
-import { PrismaUserRepository } from "../db/PrismaUserRepository";
+import { Request, Response } from "express";
+import { UserService } from "../../../application/services/UserService";
+import { PrismaUserRepository } from "../../db/PrismaUserRepository";
 
 const repo = new PrismaUserRepository();
 const userService = new UserService(repo);
