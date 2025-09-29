@@ -7,4 +7,3 @@ PRISMA SETUP
 <img width="623" height="489" alt="Screenshot 2025-09-29 at 4 49 23 PM" src="https://github.com/user-attachments/assets/b1cfd2fb-bff6-4318-bd5f-dfcc25b498d7" />
 
 6.  Run npx prisma migrate dev --name init to create User and Product tables and also generate prisma client
-7.  Run npx prisma migrate dev --name init to apply schema and run migration
