@@ -1,10 +1,10 @@
 **NODE SETUP**
 1. Install Node
 2. Create project directory
-3. Run ```bash touch index.js``` to create app entry file
-4. Run ```bash npm init``` to create a package.json file for dependencies
-5. Run ```bash node init``` to create node project
-6. Run ```bash node index.js``` to start application
+3. Run ```touch index.js``` to create app entry file
+4. Run ```npm init``` to create a package.json file for dependencies
+5. Run ```node init``` to create node project
+8. Run ```node index.js``` to start application
 
 **PRISMA SETUP**
 1. Run npm install @prisma/client
