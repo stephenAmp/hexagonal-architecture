@@ -3,8 +3,7 @@
 2. Create project directory
 3. Run ```touch index.js``` to create app entry file
 4. Run ```npm init``` to create a package.json file for dependencies
-5. Run ```node init``` to create node project
-8. Run ```node index.js``` to start application
+5. Run ```node index.js``` to start application
 
 **PRISMA SETUP**
 1. Run npm install @prisma/client
